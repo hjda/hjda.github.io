@@ -1,0 +1,11 @@
+title: Hey, Xiao bai
+email: heyxiaobai@outlook.com
+description: >-
+  Welcome to heyxiaobai's blog, hope to help you ~
+baseurl: "" 
+url: "" 
+github_username:  heyxiaobai
+
+theme: minima
+plugins:
+  - jekyll-feed
